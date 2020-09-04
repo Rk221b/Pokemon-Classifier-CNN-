@@ -7,7 +7,7 @@ Pokemon Image Classifier for 3 Classes namely Pikachu, Charmander and Bulbasaur 
 
 ![alt text](https://github.com/Rk221b/Pokemon-Classifier-CNN-/blob/master/Image/309.jpg =100x)
 
-<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="256" height="256" title="Github Logo">
+<img src="https://github.com/Rk221b/Pokemon-Classifier-CNN-/blob/master/Image/309.jpg" width="256" height="256" title="Github Logo">
 
 ![alt text](https://github.com/Rk221b/Pokemon-Classifier-CNN-/blob/master/Image/400.jpg?raw=true)
 
