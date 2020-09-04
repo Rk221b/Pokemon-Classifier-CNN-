@@ -6,3 +6,9 @@ Pokemon Image Classifier for 3 Classes namely Pikachu, Charmander and Bulbasaur 
 
 
 ![alt text](https://github.com/Rk221b/Pokemon-Classifier-CNN-/blob/master/Image/309.jpg?raw=true)
+
+![alt text](https://github.com/Rk221b/Pokemon-Classifier-CNN-/blob/master/Image/400.jpg?raw=true)
+
+![alt text](https://github.com/Rk221b/Pokemon-Classifier-CNN-/blob/master/Image/525.jpg?raw=true)
+
+
