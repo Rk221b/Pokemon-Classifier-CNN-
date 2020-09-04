@@ -5,12 +5,12 @@ Dataset : https://drive.google.com/drive/folders/1qfiBv0AlboTvfq2EoZd96ByWGEtnW1
 Pokemon Image Classifier for 3 Classes namely Pikachu, Charmander and Bulbasaur using Convolutional Neural Network and different techniques like ImageDataGenerator.
 
 
-![alt text](https://github.com/Rk221b/Pokemon-Classifier-CNN-/blob/master/Image/309.jpg =100x)
+<img src="https://github.com/Rk221b/Pokemon-Classifier-CNN-/blob/master/Image/309.jpg" width="256" height="256" title="Pikachu">
 
-<img src="https://github.com/Rk221b/Pokemon-Classifier-CNN-/blob/master/Image/309.jpg" width="256" height="256" title="Github Logo">
+<img src="https://github.com/Rk221b/Pokemon-Classifier-CNN-/blob/master/Image/400.jpg" width="256" height="256" title="Pikachu">
 
-![alt text](https://github.com/Rk221b/Pokemon-Classifier-CNN-/blob/master/Image/400.jpg?raw=true)
+<img src="https://github.com/Rk221b/Pokemon-Classifier-CNN-/blob/master/Image/525.jpg" width="256" height="256" title="Pikachu">
 
-![alt text](https://github.com/Rk221b/Pokemon-Classifier-CNN-/blob/master/Image/525.jpg?raw=true)
+
 
 
